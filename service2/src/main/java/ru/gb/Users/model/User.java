@@ -1,4 +1,4 @@
-package ru.gb.Service2.model;
+package ru.gb.Users.model;
 
 import java.util.Objects;
 

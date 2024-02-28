@@ -1,8 +1,8 @@
-package ru.gb.Service2.service;
+package ru.gb.Users.service;
 
 import org.springframework.stereotype.Service;
-import ru.gb.Service2.model.User;
-import ru.gb.Service2.repository.UserRepository;
+import ru.gb.Users.model.User;
+import ru.gb.Users.repository.UserRepository;
 
 import java.util.List;
 

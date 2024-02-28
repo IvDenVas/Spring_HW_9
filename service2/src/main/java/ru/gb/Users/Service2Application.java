@@ -1,4 +1,4 @@
-package ru.gb.Service2;
+package ru.gb.Users;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

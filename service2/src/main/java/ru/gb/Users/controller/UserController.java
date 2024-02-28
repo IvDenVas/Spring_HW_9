@@ -1,10 +1,10 @@
-package ru.gb.Service2.controller;
+package ru.gb.Users.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
-import ru.gb.Service2.model.User;
-import ru.gb.Service2.service.UserService;
+import ru.gb.Users.model.User;
+import ru.gb.Users.service.UserService;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package ru.gb.Service2;
+package ru.gb.Users;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

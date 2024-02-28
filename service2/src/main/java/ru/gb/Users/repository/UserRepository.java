@@ -1,9 +1,9 @@
-package ru.gb.Service2.repository;
+package ru.gb.Users.repository;
 
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Repository;
-import ru.gb.Service2.model.User;
+import ru.gb.Users.model.User;
 
 import java.util.List;
 
